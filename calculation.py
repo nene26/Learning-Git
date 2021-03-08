@@ -19,5 +19,6 @@ if __name__ == '__main__':
     else:
         result = "Wrong input"
 
-    print(f"\nResult: {result * mult}")
+    print(f"\nResult: {result * mult - sub + add}")
+
 
