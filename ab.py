@@ -8,3 +8,4 @@ def cal_circle_area(r):
 
 def cal_rectangle_area(a, b):
     return a * b
+
